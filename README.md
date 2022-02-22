@@ -1,2 +1,2 @@
 # Nocodegame!
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="proyectosebastian.gif" width="300" />
